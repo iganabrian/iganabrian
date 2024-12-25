@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iganabrian
+- 👋 Hello, I’m @iganabrian
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning html, css, javascript, MySQL and PhP
 - 💞️ I’m looking to collaborate on website development projects 
