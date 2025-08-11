@@ -7,8 +7,8 @@ Welcome to my GitHub. I’m a curious and creative thinker with a background in 
 ### About Me
 
 - 🎓 Bachelor's Degree in Political Science and Public Administration
-- 📊 Currently self-learning **Data Analysis** through online recources
-- 🧠 Strong analytical skills, great interpersonal communication, Work ethic, and a passion for data storytelling
+- 📊 Currently self-learning **Data Analysis** through online resources
+- 🧠 Great interpersonal communication, Work ethic, and a passion for data storytelling
 ---
 
 ### 🛠️ Tools & Tech I Work With
