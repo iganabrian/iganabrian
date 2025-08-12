@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Brian Igana </h1>
+<h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
 Welcome to my GitHub. I’m a Data Analist with a background in Political Science & Public Administration. I have always been drawm towards technical skills, as such, I picked Data Analysitics to explore raw data and share a story in a visual presentaton.
