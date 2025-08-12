@@ -1,14 +1,14 @@
 <h1 align="center">Hello there, I'm Brian Igana </h1>
 
 ---
-Welcome to my GitHub. I’m a curious and creative thinker with a background in Political Science & Public Administration drawm towards technical skills. As such, I have ventured into Data Analysitics to turn raw data into visual stories.
+Welcome to my GitHub. I’m a Data Analist with a background in Political Science & Public Administration. I have always been drawm towards technical skills, as such, I picked Data Analysitics to explore raw data and share a story in a visual presentaton.
 ---
 
 ### About Me
 
-- 🎓 Bachelor's Degree in Political Science and Public Administration
-- 📊 Currently self-learning **Data Analysis** through online resources
-- 🧠 Great interpersonal communication, Work ethic, and a passion for data storytelling
+- 🎓 Bachelor's Degree in Political Science and Public Administration;
+- 📊 Currently self-learning **Data Analysis** through online resources; and
+- 🧠 Great interpersonal communication and Work ethic.
 ---
 
 ### 🛠️ Tools & Tech I Work With
@@ -21,7 +21,7 @@ Welcome to my GitHub. I’m a curious and creative thinker with a background in 
 
 ### 📁 Featured Projects
 
-Here are the projects that I have worked on - more coming soon
+Here are the projects that I have worked on and still building on them as I acquire more skills.
 
 - 💼 **[Excel Coffe Sales Analysis](https://github.com/iganabrian/Coffee-Sales-Analysis)** – a comprehensive Coffee Sales Analysis with Dashboard and Navigation menu  
 - 🏥 **[SQL Retail Sales Analysis](https://github.com/iganabrian/SQL-Retail-Sales-Analysis-)** – Database setup, Data Cleaning and Exploration
@@ -30,9 +30,9 @@ Here are the projects that I have worked on - more coming soon
 ---
 
 ###  Currently Learning
-- More about **SQL and Power BI**
-- Python for Data Anaysis   
-- Data storytelling and visualization best practices  
+- More about **SQL and Power BI**;
+- Python for Data Anaysis; and   
+- Data storytelling and visualization.  
  ---
  
 ### My Resume
@@ -41,7 +41,7 @@ Here are the projects that I have worked on - more coming soon
  
 ### Let's Connect
 
-I’m actively open to collaborations, internships, and opportunities in data analysis.
+I’m actively open to collaborations, internships, and jop opportunities in data analysis.
 - 📧 brianigana@gmail.com
 - X https://x.com/_Igana?t=0hb8vASbP5X0s0t95tlvQg&s=09
 - Tell: +254727288048
