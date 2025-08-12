@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-Welcome to my GitHub. I’m a Data Analist with a background in Political Science & Public Administration. I have always been drawm towards technical skills, as such, I picked Data Analysitics to explore raw data and share data stories in visual presentatons to drive change.
+Welcome to my GitHub. I’m a Data Analist with a background in Political Science & Public Administration. I have always been drawn towards technical skills, as such, I picked Data Analysitics to explore raw data and share data stories in visual presentatons to drive change.
 ---
 
 ### About Me
