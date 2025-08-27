@@ -1,14 +1,14 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-Welcome to my GitHub. I’m a Data Analist with a background in Political Science & Public Administration. I have always been drawn towards technical skills, as such, I picked Data Analysitics to explore raw data and share data stories in visual presentatons to drive change.
+Welcome to my GitHub profile! I am a Data Analyst with a background in Political Science & Public Administration. My passion lies in leveraging technical skills to transform raw data into compelling, actionable narratives through visual presentations, ultimately driving positive change and informed decision-making.
 ---
 
 ### About Me
 
 - 🎓 Bachelor's Degree in Political Science and Public Administration;
-- 📊 Currently self-learning **Data Analysis** through online resources; and
-- 🧠 Great interpersonal communication and Work ethic.
+- 📊 Eager to apply analytical skills in the field of data analysis through continuous self-learning and practical projects;
+- 🧠 Strong interpersonal communication, problem-solving abilities, and a dedication to ethical data practices.
 ---
 
 ### 🛠️ Tools & Tech I Work With
@@ -21,7 +21,7 @@ Welcome to my GitHub. I’m a Data Analist with a background in Political Scienc
 
 ### 📁 Featured Projects
 
-Here are the projects that I have worked on and still building on them as I acquire more skills.
+Here are some projects I've been involved in, which I'm continuously developing as I expand my skillset:
 
 - 💼 **[Excel Coffe Sales Analysis](https://github.com/iganabrian/Coffee-Sales-Analysis)** – a comprehensive Coffee Sales Analysis with Dashboard and Navigation menu  
 - 🏥 **[SQL Retail Sales Analysis](https://github.com/iganabrian/SQL-Retail-Sales-Analysis-)** – Database setup, Data Cleaning and Exploration
