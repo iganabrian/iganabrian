@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-Welcome to my GitHub profile! I am a Data Analyst with a background in Political Science & Public Administration. My passion lies in leveraging technical skills to transform raw data into compelling, actionable narratives through visual presentations, ultimately driving positive change and informed decision-making.
+Welcome to my GitHub profile! I am a Data Analyst with a background in Political Science & Public Administration. My passion lies in leveraging technical skills to transform raw data into compelling, actionable narratives through visual presentations, ultimately driving positive change and informed decision-making. Moreso, I am dusting up my skills in web development by venturing fully into fullstack web development. 
 ---
 
 ### About Me
-- 🎓 Diploma in Data Analysis - AltSchool Africa;
-- 🎓 Bachelor's Degree in Political Science and Public Administration;
-- 📊 Eager to apply analytical skills in the field of data analysis through continuous self-learning and practical projects;
+- 🎓 Currently pursuing a Diploma in Data Analysis - AltSchool Africa-online;
+- 🎓 CS50's Web Programming with Python and JavaScript-Harvard University-Online;
+- 🎓 Bachelor's Degree in Political Science and Public Administration-class of 2022;
 - 🧠 Strong interpersonal communication, problem-solving abilities, and a dedication to ethical data practices.
 ---
 
