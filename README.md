@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I am a Data Analyst with a background in Political
 ---
 
 ### About Me
-- 🎓 Currently pursuing a Diploma in Data Analysis - AltSchool Africa-online;
-- 🎓 CS50's Web Programming with Python and JavaScript-Harvard University-Online;
 - 🎓 Bachelor's Degree in Political Science and Public Administration-class of 2022;
 - 🧠 Strong interpersonal communication, problem-solving abilities, and a dedication to ethical data practices.
 ---
