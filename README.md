@@ -1,12 +1,7 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-Welcome to my GitHub profile! I am a Data Analyst with a background in Political Science & Public Administration. My passion lies in leveraging technical skills to transform raw data into compelling, actionable narratives through visual presentations, ultimately driving positive change and informed decision-making. Moreso, I am dusting up my skills in web development by venturing fully into fullstack web development. 
----
-
-### About Me
-- 🎓 Bachelor's Degree in Political Science and Public Administration-class of 2022;
-- 🧠 Strong interpersonal communication, problem-solving abilities, and a dedication to ethical data practices.
+Welcome to my GitHub profile! I am a Data Analyst with a background in Political Science & Public Administration. My passion lies in leveraging technical skills to transform raw data into compelling, actionable narratives through visual presentations, ultimately driving positive change and informed decision-making. 
 ---
 
 ### 🛠️ Tools & Tech I Work With
@@ -33,10 +28,6 @@ Here are some projects I've been involved in, which I'm continuously developing 
 - Data storytelling and visualization.  
  ---
  
-### My Resume
--<a href="https://github.com/iganabrian/iganabrian/blob/main/Brian_Igana_Resume.pdf">Brian Igana Resume<a>
- ---
- 
 ### Let's Connect
 
 I’m actively open to collaborations, internships, and jop opportunities in data analysis.
@@ -44,11 +35,3 @@ I’m actively open to collaborations, internships, and jop opportunities in dat
 - X https://x.com/_Igana?t=0hb8vASbP5X0s0t95tlvQg&s=09
 - Tell: +254727288048
 ---
-
-<p align="center">Thank you for your time, I am readily available for work.</p>
-
-
-<!---
-iganabrian/iganabrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
