@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-I am a Data Analyst.
+A Data Analyst.
 
 ---
 
