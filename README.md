@@ -1,7 +1,8 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-I am a Data Analyst with a background in Political Science & Public Administration. . 
+I am a Data Analyst.
+
 ---
 
 ### 🛠️ Tools & Tech I Work With
