@@ -1,37 +1,34 @@
 <h1 align="center">Hello! I'm Brian Igana </h1>
 
 ---
-A Data Analyst.
+<p align="center">Data Analyst | SQL • Power BI • Database Design</p>
 
 ---
 
-### 🛠️ Tools & Tech I Work With
+### 🛠️ Technical Stack
 
-- **Data Analysis:** Excel, Power BI, & SQL  
-- **Visualization:** Power BI, Excel  
-- **Version Control:** Git, GitHub  
-- **Other:** Ms. Word, Canva, PowerPoint, Postgrade, SSMS, MySQL
+* **Data Analysis & Querying:** SQL (PostgreSQL, MySQL, SSMS), Excel
+* **Business Intelligence & Visualization:** Power BI
+* **Version Control & Collaboration:** Git, GitHub
+* **Documentation & Presentation:** PowerPoint, MS Word
+
+### Portfolio Projects
+
+Here are some projects I've been involved in:
+
+- **[Power BI Electronic Sales Analysis](https://github.com/iganabrian/Electronic-Sales-Using-Power-BI)** - Data Modelling, Visualization and Power BI Report Embedding
+- **[Excel Coffee Sales Analysis](https://github.com/iganabrian/Coffee-Sales-Analysis)** – a comprehensive Coffee Sales Analysis with an Interactive Dashboard  
+- **[SQL Hotel Database setup & Sales Analysis](https://github.com/iganabrian/Tembo-Hotel-SQL-Capstone-project)** – Database setup, Data Cleaning and Exploration, Data Visualization in Power BI
 ---
 
-### 📁 Featured Projects
+### Professional Focus
 
-Here are some projects I've been involved in, which I'm continuously developing as I expand my skillset:
+Currently deepening expertise in advanced predictive analytics using Python, advanced SQL optimization patterns, and executive-level data storytelling frameworks.
 
-- 📊 **[Power BI Electronic Sales Analysis](https://github.com/iganabrian/Electronic-Sales-Using-Power-BI)** - Data Modelling and visualization
-- 💼 **[Excel Coffe Sales Analysis](https://github.com/iganabrian/Coffee-Sales-Analysis)** – a comprehensive Coffee Sales Analysis with Dashboard and Navigation menu  
-- 🏥 **[SQL Retail Sales Analysis](https://github.com/iganabrian/SQL-Retail-Sales-Analysis-)** – Database setup, Data Cleaning and Exploration
----
+### Contact & Collaboration
 
-###  Currently Learning
-- More about **SQL and Power BI**;
-- Python for Data Anaysis; and   
-- Data storytelling and visualization.  
- ---
- 
-### Let's Connect
+Available for data consulting, contract roles, and full-time analyst positions.
 
-I’m actively open to collaborations, internships, and jop opportunities in data analysis.
-- 📧 brianigana@gmail.com
-- X https://x.com/_Igana?t=0hb8vASbP5X0s0t95tlvQg&s=09
-- Tell: +254727288048
+**Email:** brianigana@gmail.com
+  
 ---
